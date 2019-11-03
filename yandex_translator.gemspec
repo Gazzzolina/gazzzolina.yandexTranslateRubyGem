@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = YandexTranslator::VERSION
   spec.summary       = 'api yandex translator'
   spec.description   = 'yandex translator'
+  spec.homepage      = 'https://github.com/Gazzzolina/gazzzolina.yandexTranslateRubyGem.io'
 
    spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
