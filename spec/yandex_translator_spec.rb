@@ -1,6 +1,6 @@
 require "spec_helper"
 
-API_KEY = "trnsl.1.1.20170607T193617Z.478755f97626702e.e47a80b271bc5f68e91383b66f84b0561afcf8e1"
+API_KEY = "trnsl.1.1.20191103T121746Z.ded8f42d40f35f5e.62a87f5aedd8431d3cb4cae663995947609a50f5"
 DEFAULT_LANG = :en
 
 RSpec.describe YandexTranslator do
